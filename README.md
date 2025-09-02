@@ -1,6 +1,6 @@
 # High-Cloud-Airlines-Data-Analysis
 
-This project involves an in-depth analysis of airline data, with a specific focus on understanding and optimizing the load factor. By examining key performance indicators and creating detailed visualizations, this project aims to provide actionable insights for improving operational efficiency and profitability.
+This project involves an in-depth analysis of airline data to identify key trends and opportunities for improving business performance. By focusing on critical metrics, particularly the load factor, the project aims to provide actionable insights that can help High Cloud Airlines optimize its operational efficiency, increase profitability, and enhance overall service. The analysis includes a comprehensive examination of customer and flight data to uncover patterns in passenger behavior and flight routes.
 
 ## Project Objectives
 * Analyze and interpret key performance indicators (KPIs), with a specific focus on the load factor, to identify trends, opportunities, and areas for improvement.
@@ -33,9 +33,3 @@ Our analysis was based on the following key performance indicators (KPIs):
 ## Dataset
 
 * <a href="https://drive.google.com/drive/folders/1e1cpbkYNisfaWP-CjQHA55Gqvw_qxjib?usp=drive_link"> **Dataset Source**
-
-Dataset
-(Here you can insert a link to your dataset if it is too large to upload directly to GitHub.)
-
-Dataset Source: [Link to your Google Drive folder containing the dataset]
-
